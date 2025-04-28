@@ -56,4 +56,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/spandanma
 #PowerBI #DataAnalytics #BusinessIntelligence #InsuranceAnalytics #PortfolioProject #DashboardDesign
 
 ---
-![Dashboard Preview]()
+![Dashboard Preview](Insurance Funnel Dashboard.jpg)
