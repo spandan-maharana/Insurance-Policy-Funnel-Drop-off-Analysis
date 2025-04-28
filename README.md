@@ -1,5 +1,7 @@
 # Insurance Policy Funnel Drop-off Analysis (Power BI Project)
 
+![Dashboard Preview](Insurance Funnel Dashboard.jpg)
+
 🚀 **Project Summary**  
 This Power BI project analyzes a simulated insurance policy purchase funnel for SafeShield Insurance to identify major user drop-off points and propose data-driven improvements to boost conversion rates.
 
@@ -56,4 +58,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/spandanma
 #PowerBI #DataAnalytics #BusinessIntelligence #InsuranceAnalytics #PortfolioProject #DashboardDesign
 
 ---
-![Dashboard Preview](Insurance Funnel Dashboard.jpg)
+
