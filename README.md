@@ -48,9 +48,12 @@ By addressing these friction points, SafeShield Insurance could realistically dr
 ---
 
 ## 📩 Connect with me:
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) to discuss analytics, Power BI, and data-driven business strategies!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/spandanmaharana/) to discuss analytics, Power BI, and data-driven business strategies!
 
 ---
 
 ## 🚀 Tags:
 #PowerBI #DataAnalytics #BusinessIntelligence #InsuranceAnalytics #PortfolioProject #DashboardDesign
+
+---
+![Dashboard Preview]()
